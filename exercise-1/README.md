@@ -10,3 +10,7 @@ about the quote. When you push your changes back up to GitHub, you
 will see the rendered markdown file.
 
 See `complete` branch for an example.
+
+>kwyjibo
+
+[check this out](https://github.com/ClemMooc/ch03-markdown.git)
